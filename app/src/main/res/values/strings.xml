@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">Craps</string>
+  <string name="restart">Restart</string>
+  <string name="pause">Pause</string>
+  <string name="play_fast">play_fast</string>
+  <string name="play_one">play_one</string>
+  <string name="reset">Reset</string>
+  <string name="tally">%1$,d wins / %2$,d plays = %3$.2f%%</string>
+  <string name="sum">= %2d</string>
+</resources>
